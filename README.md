@@ -6,9 +6,9 @@
 
 ## Preview
 
-<!-- <p align="center">
-  <img src="preview.png" alt="Fashion Website Preview" />
-</p> -->
+<p align="center">
+  <img src="1.png" alt="Fashion Website Preview" />
+</p>
 
 Bem-vindo ao "Website Fashion"! Este é um projeto inspirador desenvolvido com o uso do TailwindCSS, criado para costureiras exibirem seu talento e serviços de maneira elegante e funcional.
 
